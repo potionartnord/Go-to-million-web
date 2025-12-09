@@ -10,7 +10,8 @@ main {
 }
 
 #container {
-    width: 350px;
+    width: 6 50px;
+    height: 500px;
     margin: auto;
 }
 
@@ -38,4 +39,16 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 18px;
+}
+
+#shops {
+    display: flex;
+    gap: 20px;
+}
+
+.shop-section {
+    padding: 10px;
+    border: 2px solid #333;
+    width: 400px;
+    border-radius: 8px;
 }
