@@ -1,0 +1,41 @@
+html, body {
+    margin: 0%;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 350px;
+    margin: auto;
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    border: none;
+    background: white;
+    color: #121414;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.shop-item {
+    background: #1c1e1e;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+
+body {
+    background: #121414;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
